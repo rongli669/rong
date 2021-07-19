@@ -16,9 +16,10 @@ author: Rong Li
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - DeepL Translator: "https://www.deepl.com/translator"
+    - Onlie OCR: "https://www.onlineocr.net/"
+    - Science Direct: "https://www.sciencedirect.com/"
+  Rong Li: "https://www.linkedin.com/in/ron-li-4ba711135/"
 
 # --- Logo --- #
 
@@ -43,7 +44,7 @@ social-network-links:
   github: https://github.com/rongli669
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/ron-li-4ba711135/
+#  linkedin: https://www.linkedin.com/in/ron-li-4ba711135/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
